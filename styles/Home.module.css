@@ -42,6 +42,8 @@
 
 .grid {
   display: flex;
+  position: fixed;
+  bottom: 6rem;
 }
 
 .card {
@@ -173,6 +175,7 @@
     grid-template-columns: 1fr;
     max-width: 320px;
     text-align: center;
+    bottom: 0;
   }
 
   .card {
