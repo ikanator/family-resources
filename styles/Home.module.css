@@ -82,6 +82,7 @@
   position: relative;
   padding: 4rem 0;
   width: 100%;
+  overflow-y: auto;
 }
 
 .center h3 {
@@ -170,7 +171,6 @@
 
   .grid {
     grid-template-columns: 1fr;
-    margin-bottom: 120px;
     max-width: 320px;
     text-align: center;
   }
@@ -185,9 +185,9 @@
 
   .center {
     margin-top: 6rem;
+    margin-bottom: 2rem;
     padding: 0;
     width: 100%;
-    overflow-y: auto;
   }
 
   .center::before {
