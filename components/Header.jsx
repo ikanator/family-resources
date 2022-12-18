@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 export default function Header() {
   return (
     <div className={styles.description}>
-      <p>Розширюйте горизонти разом своїх відносин разом із цими ресурсами</p>
+      <p>Розширюйте горизонти своїх відносин разом із цими ресурсами</p>
       <div>
         <a
           href="https://germon.org/ua/"
