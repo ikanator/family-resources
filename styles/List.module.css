@@ -1,0 +1,5 @@
+.list {
+  font-family: var(--font-mono);
+  line-height: 2;
+  margin-left: 2rem;
+}
